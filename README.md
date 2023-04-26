@@ -46,3 +46,10 @@ Desarrollar una aplicación que nos muestre el peso de cualquier material que qu
 ![WhatsApp Image 2023-04-26 at 12 39 44 PM (1)](https://user-images.githubusercontent.com/106549049/234672515-7e6028a0-fc58-4378-9a5d-bf77c444f5a2.jpeg)
 ![WhatsApp Image 2023-04-26 at 12 39 44 PM](https://user-images.githubusercontent.com/106549049/234672520-2eb514b9-98c6-413b-9980-3829c2a83a37.jpeg)
 ![WhatsApp Image 2023-04-26 at 12 39 45 PM](https://user-images.githubusercontent.com/106549049/234672521-82578472-4194-4985-ad11-f017d88d117a.jpeg)
+
+## Enlace video TikTok
+https://vm.tiktok.com/ZMY35ddYS/
+
+## DashBoard
+
+![image](https://user-images.githubusercontent.com/106549049/234679639-77f1e067-0882-48a6-8be2-7e4eb55587da.png)
